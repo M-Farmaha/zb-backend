@@ -1,6 +1,6 @@
 [
   {
-    "url": "https://s3-alpha-sig.figma.com/img/1ad6/f5cc/a2ead523a4bef4a04f8c10ccd9bc436d?Expires=1698624000&Signature=RH8WN2MkIZrGiDfs1uF-6ybFuf2pRCAs-tivLIjbGY~UhWmNkECiSo3e9R7fgY8VjXIfvghORWW0kKEpx5NurElFzwiwJa8lTVvp9mZKq6Rtxp-Sup3~wsqbn0ky527pMQYUgwd3D~t7VL~yRiuHpcn~xnX4tNM9PwCftGvQfUEMqvp9ZUr-7BhFciQo7ZQDGTag7IgAmcQmw7iUF08-Da5VvWFUO12nd8fD6TyVN10BZz70ngghbLwwrauShU6KN9r-D1ILw7jojJShi-oWNEp0-E7fpqfR-g1zg~xR8MUyfF5p3E296NOoyg3Jd7w5YE5xR7JljHl~vKd7M2WI~Q__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "url": "https://raw.githubusercontent.com/M-Farmaha/zb-backend/main/assets/the-marina-torch.jpg",
     "title": "The Marina Torch",
     "price": 6500000,
     "ticket": 60000,
@@ -9,7 +9,7 @@
     "sold": 75
   },
   {
-    "url": "https://s3-alpha-sig.figma.com/img/4aba/0330/34768fbf24e7ec3c31a8d0651145a898?Expires=1698624000&Signature=YMpUODwpjcLdQVjFxbi-SA22gzRO8fC5hkCxneS62pwL5Xg7nKxTLPRVaQpPNQPGT8abNKvrP6a9oTKFxEJAf0mP0dVS2eu6AM27QgFUtrwNdMUGGQFFIu9hlaOP2G8CoeCfdMfXS0SoH8tifNBrU81RCJbM4EO6z8H5xkuQBOxPmFvgq6Xqs8~TU9yPix90BnLuF0rFHicb91YtHIogW7aaSfTUpmkKeaZ-gTBS7CgKA~of5n4Lz4bPILLLxYU1JFfq1SYvQU7YcC0J11IAHxfLQqBrCOkWdAD-pbTWgHtGzsveYxFows9ichKyZzbyVgBoqtgHQ1OxuJ~Sdkxe4w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "url": "https://raw.githubusercontent.com/M-Farmaha/zb-backend/main/assets/hhhr-tower.jpg",
     "title": "HHHR Tower",
     "price": 3500000,
     "ticket": 40000,
@@ -18,7 +18,7 @@
     "sold": 55
   },
   {
-    "url": "https://s3-alpha-sig.figma.com/img/cbdf/d278/84213308bb25c24349c1db6be8d144b7?Expires=1698624000&Signature=fIA8vv38Mi-eB2IchkTTvB3BJf8GiY4GDvAjtIA0hYNj0sDz8AMwurY5IVe-YDEkCOp3tJmeaCQkmCDmXOu7ncp26sAiNN36nBjvpBJFma6YJ~w5e8cWN0r7v77cPYhUYHRCse0QY~y8TUi8VUq8~8V~24z60X6h0c-q8~~CXtQDXnvThgc8JWkYfVUpPq3jOZRwnYEuu1fll7TQHVQa~avUzL-AqmUTb~4sqd1Wh8TLlHzXx6zTFzHDVMDhUvjebprIUlMKXA5CZA3eXHRADJkgJTybbM0fDTD8sWGqXyh~RTIChZ3xQzAvXvuSdm0fo0s8e~lRVx0CqV3oVyOt6w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "url": "https://raw.githubusercontent.com/M-Farmaha/zb-backend/main/assets/ocean-peaks.jpg",
     "title": "Ocean peaks",
     "price": 3700000,
     "ticket": 50000,
@@ -27,7 +27,7 @@
     "sold": 88
   },
   {
-    "url": "https://s3-alpha-sig.figma.com/img/bc32/73a9/69bc98a8cb41f02082dcd1c105afadc1?Expires=1698624000&Signature=ERm65bAtzOWMArCghAdmzt2k8fkS3TlGAjq~jqx3G9aLpOWZKLkBxxTTOBhbPC7eMhlCGUGkV61C5hSv7NaglIdLVM6Vf16b28cej7NCo-S1a2KoTtARdvZzZaq3nZDNJPOdUulO-6UvXCQTp0SEqTt-snOtl9VrdZJITFhdmFSU7bq9IyFQoVbswhrOQ3BRUr7GWWjsHFVMsBtbhAu~09BKk660hruopqOpmv3fg~QJT5o~ZfqhhoskVrSK6yvx~FJqSlcxBrwLjudjSE1xzwklguLPhfOLSVgj6R5uSWaEon7TxDZm4IAwEVGJ7UEmZE0ekSOF2Pn0CeWetRTlbQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "url": "https://raw.githubusercontent.com/M-Farmaha/zb-backend/main/assets/ai-yaqoub-tower.jpg",
     "title": "Al Yaqoub Tower",
     "price": 9500000,
     "ticket": 80000,
